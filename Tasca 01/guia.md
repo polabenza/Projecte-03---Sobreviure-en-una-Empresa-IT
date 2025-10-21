@@ -9,7 +9,7 @@ i descarregueu:
 - 🌐 Extensió del navegador  
 - 📱 Aplicació mòbil (Android / iOS)
 
-![Instal·lació de Bitwarden](img/bitwarden_install.png)
+![Instal·lació de Bitwarden](Bitwarden-gestor-de-contrasenas.png)
 
 ### 🔑 Pas 2: Creació del Compte
 1. Feu clic a **Create Account**.  
