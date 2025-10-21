@@ -49,7 +49,7 @@ i descarregueu:
 2. L’extensió del navegador mostrarà el logotip de Bitwarden.  
 3. Feu clic i seleccioneu **Autofill**. 🚀  
 
-![Autofill](img/bitwarden_autofill.png)
+![Autofill](2024-12-03_09-14-59.jpg)
 
 ---
 
