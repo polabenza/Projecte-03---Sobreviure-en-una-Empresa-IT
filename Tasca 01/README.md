@@ -12,6 +12,6 @@ L’objectiu és **avaluar diferents gestors de contrasenyes** i crear documenta
 - 🗂️ **img/** → Carpeta amb totes les imatges utilitzades (instal·lació, generació de contrasenyes, còpies de seguretat...).
 
 ## 👤 Autoria
-- **Nom de l’estudiant:** *[El teu nom]*  
-- **Data de lliurament:** *[data]*  
-- **Assignatura:** *Ciberseguretat i Administració de Sistemes*
+- **Nom de l’estudiant:** *Pol Abenza*  
+- **Data de lliurament:** *21/10/2025*  
+- **Assignatura:** *Seguretat*
