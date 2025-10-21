@@ -62,7 +62,8 @@ i descarregueu:
    - 🔐 USB xifrada
    - ☁️ Núvol amb xifratge addicional (com Nextcloud o Tresorit)
 
-![Backup Bitwarden](img/bitwarden_backup.png)
+![Backup Bitwarden](d7bf25cfba2d828117b83ca1fb65de99.webp
+)
 
 **Bones pràctiques:**
 - Mantenir **dues còpies** actualitzades. 🧱  
