@@ -27,7 +27,7 @@ i descarregueu:
    - ✅ Incloure símbols, números i majúscules  
 3. Copieu i deseu la contrasenya generada.
 
-![Generador de contrasenyes](img/bitwarden_passwordgen.png)
+![Generador de contrasenyes](contrasena-Bitwarden.png)
 
 💡 *Consell:* utilitzeu paraules aleatòries o frases si voleu una contrasenya recordable (passphrase).
 
