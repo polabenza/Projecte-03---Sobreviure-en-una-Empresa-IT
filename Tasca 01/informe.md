@@ -70,3 +70,5 @@ Des del punt de vista de **seguretat, usabilitat i gestió centralitzada**, la m
 🟢 **Conclusió:**  
 **Bitwarden** combina seguretat, facilitat d’ús i escalabilitat.  
 És la millor solució per millorar la higiene digital d’EverPia i reduir riscos futurs. 🔐🚀
+
+**Aquí está el [LINK al Document](https://docs.google.com/document/d/1NuHdao6YrvYJCbM3BOvDJF6KEpkjxDKO7DZ91aSEizQ/edit?usp=sharing)**
