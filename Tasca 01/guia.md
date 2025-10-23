@@ -62,8 +62,7 @@ i descarregueu:
    - 🔐 USB xifrada
    - ☁️ Núvol amb xifratge addicional (com Nextcloud o Tresorit)
 
-![Backup Bitwarden](d7bf25cfba2d828117b83ca1fb65de99.webp
-)
+<img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/d7bf25cfba2d828117b83ca1fb65de99.webp?raw=true" />
 
 **Bones pràctiques:**
 - Mantenir **dues còpies** actualitzades. 🧱  
