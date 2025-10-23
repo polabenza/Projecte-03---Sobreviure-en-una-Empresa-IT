@@ -3,51 +3,49 @@
 ## 1️⃣ Instal·lació i Configuració Inicial
 
 ### 🖥️ Pas 1: Descàrrega
-Aneu a 👉 [https://bitwarden.com/download](https://bitwarden.com/download)  
-i descarregueu:
+Anem a 👉 [https://bitwarden.com/download](https://bitwarden.com/download)  
+i descarreguem:
 - 💻 Aplicació d’escriptori  
 - 🌐 Extensió del navegador  
-- 📱 Aplicació mòbil (Android / iOS)
+- 📱 Aplicació mòbil
 
 <img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/Bitwarden-gestor-de-contrasenas.png?raw=true" />
 
 ### 🔑 Pas 2: Creació del Compte
-1. Feu clic a **Create Account**.  
-2. Introduïu el vostre correu corporatiu. 📧  
-3. Trieu una **Contrasenya Mestra forta** (mínim 14 caràcters).  
-4. Activeu **Two-Factor Authentication (2FA)** per més seguretat. 🔐
+1. Fem clic a **Create Account**.  
+2. Introduïum el nostre correu corporatiu. 📧  
+3. Triem una **Contrasenya Mestra forta** 
+4. Activem **Two-Factor Authentication (2FA)** per més seguretat. 🔐
 
 ---
 
 ## 2️⃣ Generació de Contrasenyes Segures
 
-1. Aneu a **Tools → Password Generator**. 🛠️  
-2. Configureu:
-   - 🔢 Longitud: 16–24 caràcters  
+1. Anem a **Tools → Password Generator**. 🛠️  
+2. Configurem:  
    - ✅ Incloure símbols, números i majúscules  
-3. Copieu i deseu la contrasenya generada.
+3. Copiem i guardem la contrasenya generada.
 
 <img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/adada.png?raw=true" />
 
-💡 *Consell:* utilitzeu paraules aleatòries o frases si voleu una contrasenya recordable (passphrase).
 
 ---
 
 ## 3️⃣ Emmagatzematge i Emplenament Automàtic
 
 ### 🗂️ Desar una credencial
-1. Aneu a **Vault → Add Item**.  
-2. Ompliu els camps:
-   - Nom: `Correu corporatiu`
-   - Usuari: `usuari@everpia.com`
-   - Contrasenya: *(Generada)*
-   - URL: `https://mail.everpia.com`
-3. Feu clic a **Save** 💾
+1. Anem a **Vault → Add Item**.  
+2. Omplim els camps:
+   - Nom:
+   - Usuari:
+   - Contrasenya:
+   - URL:
+3. Fem clic a **Guardar** 💾
 
 ### ⚡ Emplenament automàtic
-1. Aneu al lloc web.  
-2. L’extensió del navegador mostrarà el logotip de Bitwarden.  
-3. Feu clic i seleccioneu **Autofill**. 🚀  
+1. Anem al lloc web.  
+2. L’extensió del navegador ensenyaré el logotip de Bitwarden.  
+3. Fem clic i seleccionem **Autofill**. 🚀  
 
 <img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/daawdsda.jpg?raw=true" />
 
@@ -56,16 +54,15 @@ i descarregueu:
 ## 4️⃣ Còpies de Seguretat 🔄
 
 ### 💾 Exportació del Vault
-1. A l’app: **File → Export Vault**  
-2. Format recomanat: `.json` o `.csv` **xifrat**.  
-3. Deseu-lo en un dispositiu segur:
+1. A l’app: **File → Export Vault**    
+2. Deseu-lo en un dispositiu segur:
    - 🔐 USB xifrada
    - ☁️ Núvol amb xifratge addicional (com Nextcloud o Tresorit)
 
 <img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/d7bf25cfba2d828117b83ca1fb65de99.webp?raw=true" />
 
 **Bones pràctiques:**
-- Mantenir **dues còpies** actualitzades. 🧱  
+- Mantenir **dos còpies** actualitzades. 🧱  
 - No guardar mai l’arxiu sense xifrar. 🚫  
 - Verificar les còpies de seguretat regularment. ⏱️  
 
