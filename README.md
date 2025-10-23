@@ -84,9 +84,3 @@ Aprendreu que no n’hi ha prou amb saber **instal·lar**, sinó que cal **enten
 
 > **Lema d’EverPia:**  
 > “Si sobrevius a això... pots sobreviure a qualsevol empresa.”
-
----
-
-## ✨ Epíleg: l’oportunitat
-
-*(Text pendent o per afegir, segons el context del projecte.)*
