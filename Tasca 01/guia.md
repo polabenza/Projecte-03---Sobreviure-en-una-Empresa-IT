@@ -49,7 +49,7 @@ i descarregueu:
 2. L’extensió del navegador mostrarà el logotip de Bitwarden.  
 3. Feu clic i seleccioneu **Autofill**. 🚀  
 
-<img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/daawdsda.jpg?raw=true" />https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/daawdsda.jpg?raw=true
+<img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/daawdsda.jpg?raw=true"
 
 ---
 
