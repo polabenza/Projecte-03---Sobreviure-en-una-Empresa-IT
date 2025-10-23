@@ -9,7 +9,7 @@ i descarregueu:
 - 🌐 Extensió del navegador  
 - 📱 Aplicació mòbil (Android / iOS)
 
-![Instal·lació de Bitwarden](Bitwarden-gestor-de-contrasenas.png)
+![Instal·lació de Bitwarden]([Bitwarden-gestor-de-contrasenas.png](https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/Bitwarden-gestor-de-contrasenas.png?raw=true))
 
 ### 🔑 Pas 2: Creació del Compte
 1. Feu clic a **Create Account**.  
