@@ -27,7 +27,7 @@ i descarregueu:
    - ✅ Incloure símbols, números i majúscules  
 3. Copieu i deseu la contrasenya generada.
 
-![Generador de contrasenyes](adada.png)
+<img src="https://github.com/polabenza/Projecte-03---Sobreviure-en-una-Empresa-IT/blob/main/Tasca%2001/Img/contrasena-Bitwarden.png?raw=true" />
 
 💡 *Consell:* utilitzeu paraules aleatòries o frases si voleu una contrasenya recordable (passphrase).
 
