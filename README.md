@@ -82,5 +82,10 @@ Aquest projecte no és només un conjunt de pràctiques, sinó una **immersió t
 
 Aprendreu que no n’hi ha prou amb saber **instal·lar**, sinó que cal **entendre, prevenir i comunicar**.
 
+
+## 🧩 Enllaços Tasques
+
+Tasca 01
+
 > **Lema d’EverPia:**  
 > “Si sobrevius a això... pots sobreviure a qualsevol empresa.”
