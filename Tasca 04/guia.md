@@ -52,3 +52,32 @@
 ![image](./img/panel.png)
 
 
+**A continuació instalarem el manager de comptes de LDAP**
+
+![image](./img/13.png)
+
+
+**Afegim usuaris i grups**
+
+![image](./img/1..png)
+
+![image](./img/2..png)
+
+
+**Ara canviem la configuració**
+
+![image](./img/3_users.png)
+
+![image](./img/3_groups.png)
+
+
+**Utilitzarem "ldapsearch"**
+
+![image](./img/4..png)
+
+
+**Afegim admin a la llista**
+
+![image](./img/lam1.png)
+
+
