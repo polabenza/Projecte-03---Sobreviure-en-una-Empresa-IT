@@ -58,11 +58,4 @@
 Comprova la resolució local, útil en xarxa sense servidor de noms.
 
 Configura adaptador pont.
-
 ![image](./img/8.png)
-
-Assigna IP **192.168.4.26/24**.
-
-
-
-Fes **ping** a una altra màquina per verificar la resolució local.
