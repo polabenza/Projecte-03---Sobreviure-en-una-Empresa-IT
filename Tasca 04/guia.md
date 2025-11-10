@@ -81,3 +81,17 @@
 ![image](./img/lam1.png)
 
 
+**Ara ja podem entrar a la compte**
+
+![image](./img/111.png)
+
+
+**Crearem dos Grups i dos Usaris**
+
+![image](./img/222.png)
+
+![image](./img/333.png)
+
+![image](./img/444.png)
+
+

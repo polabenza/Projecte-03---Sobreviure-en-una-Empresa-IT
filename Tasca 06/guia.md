@@ -58,4 +58,5 @@
 Comprova la resolució local, útil en xarxa sense servidor de noms.
 
 Configura adaptador pont.
+
 ![image](./img/8.png)
