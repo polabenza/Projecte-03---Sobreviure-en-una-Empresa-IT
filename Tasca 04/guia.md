@@ -95,3 +95,35 @@
 ![image](./img/444.png)
 
 
+**Ara configurem el nom del client**
+
+![image](./img/555.png)
+
+
+**Comprovem que els noms funcionen correctament**
+
+![image](./img/777.png)^
+
+
+**Ara instal·lem els moduls necessaris**
+
+![image](./img/888.png)
+
+
+**Ara els configurem**
+
+![image](./img/999.png)
+
+![image](./img/1000.png)
+
+![image](./img/1001.png)
+
+![image](./img/1002.png)
+
+![image](./img/1003.png)
+
+![image](./img/1004.png)
+
+![image](./img/1005.png)
+
+
