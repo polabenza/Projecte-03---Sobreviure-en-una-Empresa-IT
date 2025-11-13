@@ -127,3 +127,16 @@
 ![image](./img/1005.png)
 
 
+**Cambiem la configuració de l'arxiu /etc/nsswitch.conf**
+
+![image](./img/1006.png)
+
+
+**També modifiquem l'arxiu /etc/pam.d/common-password**
+
+![image](./img/1007.png)
+
+
+**I també modifiquem l'arxiu /etc/pam.d/common-session**
+
+![image](./img/1008.png)
