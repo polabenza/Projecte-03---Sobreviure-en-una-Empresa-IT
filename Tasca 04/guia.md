@@ -86,13 +86,15 @@
 ![image](./img/111.png)
 
 
-**Crearem dos Grups i dos Usaris**
+**Crearem dos Grups i dos Usuaris**
 
 ![image](./img/222.png)
 
 ![image](./img/333.png)
 
 ![image](./img/444.png)
+
+![image](./img/grupos.png)
 
 
 **Ara configurem el nom del client**
@@ -140,3 +142,9 @@
 **I també modifiquem l'arxiu /etc/pam.d/common-session**
 
 ![image](./img/1008.png)
+
+**Ara reiniciarem el servei amb la comanda següent:**
+
+*sudo systemctl restart nscd*
+
+
